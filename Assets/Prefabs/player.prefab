@@ -583,8 +583,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slideCooldownFlashPeriod: 0.033333335
-  slideFX: {fileID: 114689091811628006, guid: 596374141a11c524e964d2896e883653, type: 2}
-  dustFX: {fileID: 114965342778931460, guid: 29f629822f569204ca8a0ffe203bc1fe, type: 2}
+  slideFX: {fileID: 114893433532694228, guid: bb1e1773f8dd2a3439a01baf36b68903, type: 2}
+  dustFX: {fileID: 114420445853467136, guid: aaaca40a9eeacbb47842f00589a9b7b6, type: 2}
 --- !u!114 &114773668650542998
 MonoBehaviour:
   m_ObjectHideFlags: 1

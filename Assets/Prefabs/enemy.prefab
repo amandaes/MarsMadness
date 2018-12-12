@@ -609,7 +609,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slideCooldownFlashPeriod: 0.1
   slideFX: {fileID: 0}
-  dustFX: {fileID: 0}
+  dustFX: {fileID: 114420445853467136, guid: aaaca40a9eeacbb47842f00589a9b7b6, type: 2}
 --- !u!114 &114697659738112800
 MonoBehaviour:
   m_ObjectHideFlags: 1
